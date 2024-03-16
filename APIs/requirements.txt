@@ -1,0 +1,5 @@
+flask
+torch
+torchaudio
+nltk
+flask-cors
